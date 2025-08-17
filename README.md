@@ -17,8 +17,8 @@ superstore_repo/
 └── LICENSE
 **HOW TO RUN**
 # 1. Clone this repository
-git clone https://github.com/<your-username>/superstore-analysis.git
-cd superstore-analysis
+git clone https://github.com/riswanabano-sys/Superstore_repo.git
+cd superstore_repo
 
 # 2. (Optional) Create and activate a virtual environment
 python -m venv .venv
